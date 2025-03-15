@@ -1,0 +1,2 @@
+INSERT INTO Student (id, first_name, last_name, dob, address, email, phone_number, password) VALUES
+('S1', 'John', 'Doe', '2000-01-15', '123 Main St', 'john.doe@stu.kdc.edu', '555-1237', 'password123'),

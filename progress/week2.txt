@@ -1,0 +1,7 @@
+- provide setter and getter (need to be config)
+- create a hash code
+- create to string method
+- create a search methon
+- apply data structure
+- create a from 
++ create course
